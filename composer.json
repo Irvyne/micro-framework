@@ -1,0 +1,21 @@
+{
+    "name": "irvyne/micro-framework",
+    "description": "A Micro Framework for IIM students",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thibaud BARDIN (Irvyne)",
+            "email": "thibaud.bardin.pro@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "require": {
+
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "minimum-stability": "dev"
+}

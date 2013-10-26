@@ -1,0 +1,13 @@
+/config/parameters.yml
+/var/cache/*
+/var/logs/*
+/vendor/
+/bin/*
+/composer.phar
+
+!/var/cache/.gitkeep
+!/var/logs/.gitkeep
+!/bin/.htaccess
+
+/.DS_*
+/.idea/
