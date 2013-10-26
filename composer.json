@@ -12,10 +12,14 @@
         "psr-0": { "": "src/" }
     },
     "require": {
-
+        "doctrine/common": "2.4.*",
+        "doctrine/dbal": "2.4.*",
+        "doctrine/orm": "2.4.*",
+        "symfony/yaml": "2.3.*",
+        "twig/twig": "~1.14"
     },
     "config": {
         "bin-dir": "bin"
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
